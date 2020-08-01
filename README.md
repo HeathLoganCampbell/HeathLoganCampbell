@@ -2,10 +2,10 @@
 ### Java developer with experience in Game Design, Networking, Concurrency, Web Development and Scalability.
 
 ## Open Source Projects
-* Retrocraft :: A voxel based game written in pure java from scratch (No Unity, No OpenGL)
-* Nanocraft :: Reverse engineering the popular voxel game, Minecraft protocol. 
-* Sharable webtimer :: A simple web timer website that you can start countdown from the url
-* Lab Goat :: A small game written in java about putting boxes in the correct places
+* [Retrocraft](https://github.com/HeathLoganCampbell/Retro-Craft) :: A voxel based game written in pure java from scratch (No Unity, No OpenGL)
+* [Nanocraft](https://github.com/HeathLoganCampbell/Nanocraft) :: Reverse engineering the popular voxel game, Minecraft protocol. 
+* [Sharable webtimer](https://github.com/HeathLoganCampbell/sharable-webtimer) :: A simple web timer website that you can start countdown from the url
+* [Lab Goat](https://github.com/HeathLoganCampbell/LabGoat) :: A small game written in java about putting boxes in the correct places
 * Mini Raytracer :: Raytracing system using phong illumination to simulate real light
 * Coconut :: A discord bot that allows easy addition of plugins
 * NiftyEvents :: A optimized lightweight event driven API
