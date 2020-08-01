@@ -8,7 +8,7 @@
 * [Lab Goat](https://github.com/HeathLoganCampbell/LabGoat) :: A small game written in java about putting boxes in the correct places
 * Mini Raytracer :: Raytracing system using phong illumination to simulate real light
 * Coconut :: A discord bot that allows easy addition of plugins
-* NiftyEvents :: A optimized lightweight event driven API
+* [NiftyEvents](https://github.com/HeathLoganCampbell/NiftyEvents) :: A optimized lightweight event driven API
 * Minesweeper :: The popular game Minesweeper
 * ValkrinSql :: A merge between NoSql and Sql that supports ERM. 
 * Tweet Clone MVC :: A small twitter clone
