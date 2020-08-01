@@ -1,5 +1,5 @@
 # `Heath Logan Campbell`
-Java developer with experience in Game Design, Networking, Concurrency, Web Development and Scalability.
+### Java developer with experience in Game Design, Networking, Concurrency, Web Development and Scalability.
 
 ## Open Source Projects
 * Retrocraft :: A voxel based game written in pure java from scratch (No Unity, No OpenGL)
