@@ -15,3 +15,6 @@
 * Sharing Dom Experiment :: View people interacting with your dom in real time.
 * [NachoSpigot](https://github.com/CobbleSword/NachoSpigot) :: Profiling and optimizing Minecraft server code to hold high player count, with an easy to use ap and more relibably 
 And many more...
+
+## Random thoughts
+* [What does Cos, Sin, Tan look like mapped on a circle](https://codepen.io/HeathLoganCampbell/pen/YzqvEqb)
