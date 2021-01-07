@@ -7,7 +7,7 @@
 * [Sharable webtimer](https://github.com/HeathLoganCampbell/sharable-webtimer) :: A simple web timer website that you can start countdown from the url
 * [Lab Goat](https://github.com/HeathLoganCampbell/LabGoat) :: A small game written in java about putting boxes in the correct places
 * [CobbleLite](https://github.com/HeathLoganCampbell/CobbleLite) :: Allows you to write minecraft mods in js in real time
-* [CobbleMapExperiment](https://github.com/HeathLoganCampbell/CobbleMapExperiment) :: Allows world files to be used across many minecraft servers, while being faster and more space efficient than the original  
+* [CobbleMapExperiment](https://github.com/HeathLoganCampbell/CobbleMapExperiment) :: Share worlds across minecraft servers, while being faster and more space efficient than the original  
 * Mini Raytracer :: Raytracing system using phong illumination to simulate real light
 * Coconut :: A discord bot that allows easy addition of plugins
 * [NiftyEvents](https://github.com/HeathLoganCampbell/NiftyEvents) :: A optimized lightweight event driven API
