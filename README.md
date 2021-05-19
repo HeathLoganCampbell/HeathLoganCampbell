@@ -21,3 +21,4 @@ And many more...
 ## Random thoughts
 * [What does Cos, Sin, Tan look like mapped on a circle](https://codepen.io/HeathLoganCampbell/pen/YzqvEqb)
 * [Approximating Pi via the Monte Carlo method](https://codepen.io/HeathLoganCampbell/pen/vYxyevo)
+* [Simple scrolling hills using perlin noise](https://codepen.io/HeathLoganCampbell/pen/wvJoPmP)
