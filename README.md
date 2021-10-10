@@ -23,3 +23,4 @@ And many more...
 * [Approximating Pi via the Monte Carlo method](https://codepen.io/HeathLoganCampbell/pen/vYxyevo)
 * [Simple Infinite scrolling hills using perlin noise](https://codepen.io/HeathLoganCampbell/pen/wvJoPmP)
 * [Club penguin snowball throwing effect](https://codepen.io/HeathLoganCampbell/pen/RwgOxwX)
+* [SkyPaper, Can Minecraft worlds be easily uploaded and scaled in mysql](https://gist.github.com/HeathLoganCampbell/bc0e7ec8d7fc8d27f4b427268627cb93)
