@@ -9,13 +9,13 @@
 * [Lab Goat](https://github.com/HeathLoganCampbell/LabGoat) :: A small game written in java about putting boxes in the correct places
 * [CobbleLite](https://github.com/HeathLoganCampbell/CobbleLite) :: Allows you to write minecraft mods in js in real time
 * [CobbleMapExperiment](https://github.com/HeathLoganCampbell/CobbleMapExperiment) :: Share worlds across minecraft servers, while being faster and more space efficient than the original  
-* Mini Raytracer :: Raytracing system using phong illumination to simulate real light
+* [Mini Raytracer](https://github.com/HeathLoganCampbell/Mini-Raytracer) :: Raytracing system using phong illumination to simulate real light
 * Coconut :: A discord bot that allows easy addition of plugins
 * [NiftyEvents](https://github.com/HeathLoganCampbell/NiftyEvents) :: A optimized lightweight event driven API
 * Minesweeper :: The popular game Minesweeper
-* ValkrinSql :: A merge between NoSql and Sql that supports ERM. 
+* [ValkrinSql](https://github.com/HeathLoganCampbell/ValkrinSql) :: A merge between NoSql and Sql that supports ERM. 
 * Tweet Clone MVC :: A small twitter clone
-* Sharing Dom Experiment :: View people interacting with your dom in real time.
+* [Sharing Dom Experiment](https://github.com/HeathLoganCampbell/Sharing-Dom-Experiment) :: View people interacting with your dom in real time.
 * [NachoSpigot](https://github.com/CobbleSword/NachoSpigot) :: Profiling and optimizing Minecraft server code to hold high player count, with an easy to use ap and more relibably 
 And many more...
 
