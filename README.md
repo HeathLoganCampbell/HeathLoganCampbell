@@ -6,6 +6,7 @@
 ## Open Source Projects
 * [MCBut](https://github.com/mcbut/MinecraftBut) :: A mod planned and execute to capture views, generating 10s of millions of youtube views across 3 youtubers
 * [Retrocraft](https://github.com/HeathLoganCampbell/Retro-Craft) :: A voxel based game written in pure java from scratch (No Unity, No OpenGL)
+* [Tag Parser And Interpreter](https://github.com/HeathLoganCampbell/Tag-Parser-And-Interpreter) :: A basic parser that allows you to offer clients a simple way to filter and select data with limited control
 * [Nanocraft](https://github.com/HeathLoganCampbell/Nanocraft) :: Reverse engineering the popular voxel game, Minecraft protocol. 
 * [Sharable webtimer](https://github.com/HeathLoganCampbell/sharable-webtimer) :: A simple web timer website that you can start countdown from the url
 * [Lab Goat](https://github.com/HeathLoganCampbell/LabGoat) :: A small game written in java about putting boxes in the correct places
