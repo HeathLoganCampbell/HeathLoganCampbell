@@ -1,7 +1,7 @@
 # `Heath Logan Campbell`
 ### Java developer with experience in Game Design, Networking, Concurrency, Web Development and Scalability.
 
-274 Total Stars Received
+300+ Total Stars Received
 
 ## Open Source Projects
 * [MCBut](https://github.com/mcbut/MinecraftBut) :: A mod planned and execute to capture views, generating 10s of millions of youtube views across 3 youtubers
@@ -22,6 +22,9 @@
 * [CobbleLite](https://github.com/HeathLoganCampbell/CobbleLite) :: Allows you to write minecraft mods in js in real time
 * [CobbleGroovy](https://github.com/HeathLoganCampbell/CobbleGroovy) :: Allow quick, seemless writing and deploying of code to active minecrat servers with no downtime. Letting bugs to be fixed faster, new items to be developed by non developer and a fully intergrated developer experience. 
 And many more...
+
+## Education
+* Bachelor of Computer Science, Bachelor of Infomational Systems from The University of Auckland [2017 - 2019]
 
 ## Random thoughts
 * [What does Cos, Sin, Tan look like mapped on a circle](https://codepen.io/HeathLoganCampbell/pen/YzqvEqb)
