@@ -24,7 +24,8 @@
 And many more...
 
 ## Education
-* Bachelor of Computer Science, Bachelor of Infomational Systems from The University of Auckland [2017 - 2019]
+* [2017 - 2019] Bachelor of Computer Science from The University of Auckland, focusing on Data Structures and Algorithms
+* [2017 - 2019] Bachelor of Infomational Systems from The University of Auckland, focusing on enterprise systems
 
 ## Random thoughts
 * [What does Cos, Sin, Tan look like mapped on a circle](https://codepen.io/HeathLoganCampbell/pen/YzqvEqb)
