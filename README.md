@@ -33,3 +33,4 @@ And many more...
 * [Simple Infinite scrolling hills using perlin noise](https://codepen.io/HeathLoganCampbell/pen/wvJoPmP)
 * [Club penguin snowball throwing effect](https://codepen.io/HeathLoganCampbell/pen/RwgOxwX)
 * [SkyPaper, Can Minecraft worlds be easily uploaded and scaled in mysql for skyblock servers](https://gist.github.com/HeathLoganCampbell/bc0e7ec8d7fc8d27f4b427268627cb93)
+* [Basic 3D rotating Cube, Using basic trigonometry](https://codepen.io/HeathLoganCampbell/pen/BaxXyzJ)
