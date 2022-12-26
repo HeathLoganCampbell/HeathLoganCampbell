@@ -23,6 +23,10 @@
 * [CobbleGroovy](https://github.com/HeathLoganCampbell/CobbleGroovy) :: Allow quick, seemless writing and deploying of code to active minecrat servers with no downtime. Letting bugs to be fixed faster, new items to be developed by non developer and a fully intergrated developer experience. 
 And many more...
 
+## Experience
+* [2022 - now] Tech Lead at [Datacom](https://en.wikipedia.org/wiki/Datacom_Group)
+* [2020 - 2022] Software enginer at [Datacom](https://en.wikipedia.org/wiki/Datacom_Group)
+
 ## Education
 * [2017 - 2019] Bachelor of Computer Science from The University of Auckland, focusing on Data Structures and Algorithms
 * [2017 - 2019] Bachelor of Infomational Systems from The University of Auckland, focusing on enterprise systems
