@@ -26,7 +26,7 @@ And many more...
 ## Experience
 * [2022 - now] Tech Lead at [Datacom](https://en.wikipedia.org/wiki/Datacom_Group)
 * [2020 - 2022] Software enginer at [Datacom](https://en.wikipedia.org/wiki/Datacom_Group)
-* [2014 - 2020] Work with Minecraft server owners and youtubers to craft meaningful experiences for players 
+* [2014 - 2020] Work with Minecraft server owners and youtubers to craft meaningful experiences for players
 
 ## Education
 * [2017 - 2019] Bachelor of Computer Science from The University of Auckland, focusing on Data Structures and Algorithms
