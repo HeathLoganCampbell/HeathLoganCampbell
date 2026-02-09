@@ -35,10 +35,10 @@ And many more...
 * [2017 - 2019] Bachelor of Infomational Systems from The University of Auckland, focusing on enterprise systems
 
 ## Random thoughts
-* [What does Cos, Sin, Tan look like mapped on a circle](https://codepen.io/HeathLoganCampbell/pen/YzqvEqb)
-* [Approximating Pi via the Monte Carlo method](https://codepen.io/HeathLoganCampbell/pen/vYxyevo)
-* [Simple Infinite scrolling hills using perlin noise](https://codepen.io/HeathLoganCampbell/pen/wvJoPmP)
-* [Club penguin snowball throwing effect](https://codepen.io/HeathLoganCampbell/pen/RwgOxwX)
-* [SkyPaper, Can Minecraft worlds be easily uploaded and scaled in mysql for skyblock servers](https://gist.github.com/HeathLoganCampbell/bc0e7ec8d7fc8d27f4b427268627cb93)
-* [Basic 3D rotating Cube, Using basic trigonometry](https://codepen.io/HeathLoganCampbell/pen/BaxXyzJ)
-* [Pulumi MongoDB & MExpress on AWS ECS](https://gist.github.com/HeathLoganCampbell/b1fb043d5e6d20364616b023bf174b8e)
+* 📐 [What does Cos, Sin, Tan look like mapped on a circle](https://codepen.io/HeathLoganCampbell/pen/YzqvEqb)
+* 🎯 [Approximating Pi via the Monte Carlo method](https://codepen.io/HeathLoganCampbell/pen/vYxyevo)
+* 🏞️ [Simple Infinite scrolling hills using perlin noise](https://codepen.io/HeathLoganCampbell/pen/wvJoPmP)
+* ❄️ [Club penguin snowball throwing effect](https://codepen.io/HeathLoganCampbell/pen/RwgOxwX)
+* ☁️ [SkyPaper, Can Minecraft worlds be easily uploaded and scaled in mysql for skyblock servers](https://gist.github.com/HeathLoganCampbell/bc0e7ec8d7fc8d27f4b427268627cb93)
+* 🧊 [Basic 3D rotating Cube, Using basic trigonometry](https://codepen.io/HeathLoganCampbell/pen/BaxXyzJ)
+* ☁️ [Pulumi MongoDB & MExpress on AWS ECS](https://gist.github.com/HeathLoganCampbell/b1fb043d5e6d20364616b023bf174b8e)
