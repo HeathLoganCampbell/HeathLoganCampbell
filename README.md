@@ -1,8 +1,6 @@
 # `Heath Logan Campbell`
 ### Java developer with experience in Game Design, Networking, Concurrency, Web Development and Scalability.
 
-300+ Total Stars Received
-
 ## Open Source Projects
 
 ### Performance & infrastructure
